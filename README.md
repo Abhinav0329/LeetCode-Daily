@@ -54,9 +54,9 @@ Following a rigorous, sequential training index, I am systematically auditing, c
 ---
 
 ## 📈 Connect With Me
-* **LeetCode Profile:** [https://leetcode.com/u/Abhinav_Upadhyay/](https://leetcode.com/u/TXIQVQvoPn/)
+* **LeetCode Profile:** [https://leetcode.com/u/Abhinav Upadhyay/](https://leetcode.com/u/TXIQVQvoPn/)
 * **LinkedIn:** [https://linkedin.com/in/Abhinav Upadhyay/](https://linkedin.com/in/abhinav-upadhyay-136243397)
-* **GitHub Profile:** [https://github.com/Abhinav0329](https://github.com/Abhinav0329)
+* **GitHub Profile:** [https://github.com/Abhinav Upadhyay/](https://github.com/Abhinav0329)
 
 ---
 *“Simplicity is the soul of efficiency.” — Operationalizing high-quality, readable code one day at a time.*
