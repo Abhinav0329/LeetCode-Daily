@@ -54,7 +54,7 @@ Following a rigorous, sequential training index, I am systematically auditing, c
 ---
 
 ## 📈 Connect With Me
-* **LeetCode Profile:** [https://leetcode.com/u/Abhinav_Upadhyay/](https://leetcode.com/u/Abhinav_Upadhyay/)
+* **LeetCode Profile:** [https://leetcode.com/u/Abhinav_Upadhyay/](https://leetcode.com/u/TXIQVQvoPn/)
 * **LinkedIn:** [https://linkedin.com/in/Abhinav Upadhyay/](https://linkedin.com/in/abhinav-upadhyay-136243397)
 * **GitHub Profile:** [https://github.com/Abhinav0329](https://github.com/Abhinav0329)
 
