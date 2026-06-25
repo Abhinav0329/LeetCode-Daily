@@ -60,3 +60,15 @@ Following a rigorous, sequential training index, I am systematically auditing, c
 
 ---
 *“Simplicity is the soul of efficiency.” — Operationalizing high-quality, readable code one day at a time.*
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1929-concatenation-of-array](https://github.com/Abhinav0329/LeetCode-Daily/tree/main/1929-concatenation-of-array/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1929-concatenation-of-array](https://github.com/Abhinav0329/LeetCode-Daily/tree/main/1929-concatenation-of-array/) | Easy |
+<!---LeetCode Topics End-->
