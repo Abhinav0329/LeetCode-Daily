@@ -66,9 +66,14 @@ Following a rigorous, sequential training index, I am systematically auditing, c
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Abhinav0329/LeetCode-Daily/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Abhinav0329/LeetCode-Daily/tree/main/1929-concatenation-of-array/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1929-concatenation-of-array](https://github.com/Abhinav0329/LeetCode-Daily/tree/main/1929-concatenation-of-array/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Abhinav0329/LeetCode-Daily/tree/main/1480-running-sum-of-1d-array/) | Easy |
 <!---LeetCode Topics End-->
