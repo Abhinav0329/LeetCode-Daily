@@ -9,6 +9,9 @@ public:
     }
 };
 /*
-we can use recursion:-
-nums[i] += num[i-1]
+we can use another method:-
+int sum = 0;
+for(int i=0;i<n;i++){          
+ans[i] = sum + nums[i];
+sum += nums[i];
 */
