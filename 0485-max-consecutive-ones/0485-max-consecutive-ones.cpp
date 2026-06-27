@@ -1,6 +1,8 @@
 class Solution {
 public:
     int findMaxConsecutiveOnes(vector<int>& nums) {
+        ios_base::sync_with_stdio(false);
+        cin.tie(NULL);
         int n = nums.size();
         int count = 0;
         int currentstreak=0;
