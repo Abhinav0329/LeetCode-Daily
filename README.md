@@ -66,6 +66,7 @@ Following a rigorous, sequential training index, I am systematically auditing, c
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0485-max-consecutive-ones](https://github.com/Abhinav0329/LeetCode-Daily/tree/main/0485-max-consecutive-ones/) | Easy |
 | [1470-shuffle-the-array](https://github.com/Abhinav0329/LeetCode-Daily/tree/main/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Abhinav0329/LeetCode-Daily/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Abhinav0329/LeetCode-Daily/tree/main/1929-concatenation-of-array/) | Easy |
