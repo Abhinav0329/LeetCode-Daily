@@ -67,6 +67,7 @@ Following a rigorous, sequential training index, I am systematically auditing, c
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0485-max-consecutive-ones](https://github.com/Abhinav0329/LeetCode-Daily/tree/main/0485-max-consecutive-ones/) | Easy |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Abhinav0329/LeetCode-Daily/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1470-shuffle-the-array](https://github.com/Abhinav0329/LeetCode-Daily/tree/main/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Abhinav0329/LeetCode-Daily/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Abhinav0329/LeetCode-Daily/tree/main/1929-concatenation-of-array/) | Easy |
@@ -78,4 +79,8 @@ Following a rigorous, sequential training index, I am systematically auditing, c
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Abhinav0329/LeetCode-Daily/tree/main/1480-running-sum-of-1d-array/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Abhinav0329/LeetCode-Daily/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 <!---LeetCode Topics End-->
