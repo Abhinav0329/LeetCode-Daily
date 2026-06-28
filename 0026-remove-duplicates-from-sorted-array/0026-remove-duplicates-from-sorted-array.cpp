@@ -9,6 +9,6 @@ public:
                 k++;
             }
         }
-        return k;
+        return k;//Total number of unique elements
     }
 };
