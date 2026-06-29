@@ -67,6 +67,7 @@ Following a rigorous, sequential training index, I am systematically auditing, c
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abhinav0329/LeetCode-Daily/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0027-remove-element](https://github.com/Abhinav0329/LeetCode-Daily/tree/main/0027-remove-element/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Abhinav0329/LeetCode-Daily/tree/main/0485-max-consecutive-ones/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Abhinav0329/LeetCode-Daily/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1470-shuffle-the-array](https://github.com/Abhinav0329/LeetCode-Daily/tree/main/1470-shuffle-the-array/) | Easy |
@@ -88,4 +89,5 @@ Following a rigorous, sequential training index, I am systematically auditing, c
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abhinav0329/LeetCode-Daily/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0027-remove-element](https://github.com/Abhinav0329/LeetCode-Daily/tree/main/0027-remove-element/) | Easy |
 <!---LeetCode Topics End-->
