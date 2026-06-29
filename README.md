@@ -80,6 +80,7 @@ Each directory maps to a specific algorithmic concept/problem containing product
 | --- | --- |
 | [0026-remove-duplicates-from-sorted-array](./0026-remove-duplicates-from-sorted-array) | Easy |
 | [0027-remove-element](./0027-remove-element) | Easy |
+| [0066-plus-one](https://github.com/Abhinav0329/Concept_Dsa/tree/main/0066-plus-one) | Easy |
 | [0485-max-consecutive-ones](./0485-max-consecutive-ones) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](./1295-find-numbers-with-even-number-of-digits) | Easy |
 | [1470-shuffle-the-array](./1470-shuffle-the-array) | Easy |
