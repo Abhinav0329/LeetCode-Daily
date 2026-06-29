@@ -62,11 +62,13 @@ Each directory maps to a specific algorithmic concept/problem containing product
 
 ## 📈 Connect With Me
 
-LeetCode Profile: https://leetcode.com/u/Abhinav%20Upadhyay/
-LinkedIn: https://linkedin.com/in/Abhinav%20Upadhyay/
-GitHub Profile: https://github.com/Abhinav%20Upadhyay/
+| Platform | Profile Link |
+| :--- | :--- |
+| **LeetCode Profile** | [https://leetcode.com/u/AbhinavUpadhyay](https://leetcode.com/u/TXIQVQvoPn/) |
+| **LinkedIn** | [https://www.linkedin.com/in/AbhinavUpadhyay](https://www.linkedin.com/in/abhinav-upadhyay-1362433397) |
+| **GitHub Profile** | [https://github.com/AbhinavUpadhyay](https://github.com/Abhinav0329/LeetCode-Daily) |
 
-“Simplicity is the soul of efficiency.” — Operationalizing high-quality, readable code one day at a time.
+> “Relentless consistency builds deep engineering mastery.” — Shifting paradigms and tracking growth over time.
 
 ---
 
