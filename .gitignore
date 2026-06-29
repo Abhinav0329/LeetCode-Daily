@@ -1,14 +1,17 @@
 # 1. Ignore all macOS debugging symbol folders anywhere in the workspace
 **/*.dSYM/
 
-# 2. Ignore all compiled extensionless binary executables globally
-# (This matches files that do not have a dot in their filename)
+# 2. Ignore the local VS Code editor configurations folder
+.vscode/
+
+# 3. Ignore all compiled extensionless binary executables globally
+# (Matches files that do not have a dot in their filename)
 *
 !*/
 !*.*
 
-# 3. Explicitly allow the files you actually care about tracking
-!*.cpp
-!*.md
+# 4. Explicitly allow the files you actually care about tracking
+!**/*.cpp
+!**/*.md
 !.gitignore
 !LICENSE
