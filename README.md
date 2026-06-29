@@ -103,6 +103,7 @@ Each directory maps to a specific algorithmic concept/problem containing product
 | Problem Name | Difficulty |
 | --- | --- |
 | [1295-find-numbers-with-even-number-of-digits](./1295-find-numbers-with-even-number-of-digits) | Easy |
+| [0066-plus-one](https://github.com/Abhinav0329/Concept_Dsa/tree/main/0066-plus-one) | Easy |
 
 ### Two Pointers
 
