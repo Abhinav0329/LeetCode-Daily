@@ -8,8 +8,8 @@ public:
         }
         for(int i=0;i<nums.size();i++){
             int rightSum = totalSum - leftSum - nums[i];
-            if(rightSum == leftSum){
-                return i;
+            if(rightSum == leftSum){ 
+                return i; 
                 break;
             }
             leftSum += nums[i];
