@@ -53,7 +53,7 @@ Following a rigorous, sequential training index, I am systematically auditing, c
 
 ---
 
-## 📊 Repository Structure
+## 📁 Repository Structure
 
 README.md: The complete mastery syllabus and progress tracking.
 Each directory maps to a specific algorithmic concept/problem containing production-grade code, optimal complex time/space analytics, and variant documentation.
@@ -81,10 +81,17 @@ Each directory maps to a specific algorithmic concept/problem containing product
 | [0026-remove-duplicates-from-sorted-array](./0026-remove-duplicates-from-sorted-array) | Easy |
 | [0027-remove-element](./0027-remove-element) | Easy |
 | [0066-plus-one](https://github.com/Abhinav0329/Concept_Dsa/tree/main/0066-plus-one) | Easy |
+| [0080-remove-duplicates-from-sorted-array-ii](./0080-remove-duplicates-from-sorted-array-ii) | Medium |
+| [0088-merge-sorted-array](./0088-merge-sorted-array) | Easy |
+| [0169-majority-element](./0169-majority-element) | Easy |
+| [0189-rotate-array](./0189-rotate-array) | Medium |
+| [0217-contains-duplicate](./0217-contains-duplicate) | Easy |
 | [0485-max-consecutive-ones](./0485-max-consecutive-ones) | Easy |
+| [0724-find-pivot-index](./0724-find-pivot-index) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](./1295-find-numbers-with-even-number-of-digits) | Easy |
 | [1470-shuffle-the-array](./1470-shuffle-the-array) | Easy |
 | [1480-running-sum-of-1d-array](./1480-running-sum-of-1d-array) | Easy |
+| [1732-find-the-highest-altitude](./1732-find-the-highest-altitude) | Easy |
 | [1929-concatenation-of-array](./1929-concatenation-of-array) | Easy |
 
 ### Simulation
@@ -97,17 +104,31 @@ Each directory maps to a specific algorithmic concept/problem containing product
 
 | Problem Name | Difficulty |
 | --- | --- |
+| [0724-find-pivot-index](./0724-find-pivot-index) | Easy |
 | [1480-running-sum-of-1d-array](./1480-running-sum-of-1d-array) | Easy |
+| [1732-find-the-highest-altitude](./1732-find-the-highest-altitude) | Easy |
 
 ### Math
 
 | Problem Name | Difficulty |
 | --- | --- |
-| [1295-find-numbers-with-even-number-of-digits](./1295-find-numbers-with-even-number-of-digits) | Easy |
+| [0009-palindrome-number](./0009-palindrome-number) | Easy |
 | [0066-plus-one](https://github.com/Abhinav0329/Concept_Dsa/tree/main/0066-plus-one) | Easy |
+| [1295-find-numbers-with-even-number-of-digits](./1295-find-numbers-with-even-number-of-digits) | Easy |
 
 ### Two Pointers
 
 | Problem Name | Difficulty |
 | --- | --- |
 | [0026-remove-duplicates-from-sorted-array](./0026-remove-duplicates-from-sorted-array) | Easy |
+| [0027-remove-element](./0027-remove-element) | Easy |
+| [0080-remove-duplicates-from-sorted-array-ii](./0080-remove-duplicates-from-sorted-array-ii) | Medium |
+| [0088-merge-sorted-array](./0088-merge-sorted-array) | Easy |
+| [0189-rotate-array](./0189-rotate-array) | Medium |
+
+### Sorting
+
+| Problem Name | Difficulty |
+| --- | --- |
+| [0169-majority-element](./0169-majority-element) | Easy |
+| [0217-contains-duplicate](./0217-contains-duplicate) | Easy |
