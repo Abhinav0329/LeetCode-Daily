@@ -1,4 +1,4 @@
-// #include<cmath> --> required for INT_MAX
+// #include<cmath> --> required for INT_MAX to set the value for min_price 
 class Solution {
 public:
     int maxProfit(vector<int>& prices) {
