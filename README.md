@@ -64,9 +64,9 @@ Each directory maps to a specific algorithmic concept/problem containing product
 
 | Platform | Profile Link |
 | :--- | :--- |
-| **LeetCode Profile** | [https://leetcode.com/u/AbhinavUpadhyay](https://leetcode.com/u/TXIQVQvoPn/) |
-| **LinkedIn** | [https://www.linkedin.com/in/AbhinavUpadhyay](https://www.linkedin.com/in/abhinav-upadhyay-1362433397) |
-| **GitHub Profile** | [https://github.com/AbhinavUpadhyay](https://github.com/Abhinav0329/LeetCode-Daily) |
+| **LeetCode Profile** | [https://leetcode.com/u/CodexAbhi](https://leetcode.com/u/CodexAbhi/) |
+| **LinkedIn** | [https://www.linkedin.com/in/AbhinavUpadhyay](https://www.linkedin.com/in/abhinav-upadhyay-136243397/) |
+| **GitHub Profile** | [https://github.com/Abhinav0329/LeetCode-Daily](https://github.com/Abhinav0329/LeetCode-Daily) |
 
 > “Relentless consistency builds deep engineering mastery.” — Shifting paradigms and tracking growth over time.
 
@@ -78,16 +78,19 @@ Each directory maps to a specific algorithmic concept/problem containing product
 
 | Problem Name | Difficulty |
 | --- | --- |
+| [0009-palindrome-number](./0009-palindrome-number) | Easy |
 | [0026-remove-duplicates-from-sorted-array](./0026-remove-duplicates-from-sorted-array) | Easy |
 | [0027-remove-element](./0027-remove-element) | Easy |
-| [0066-plus-one](https://github.com/Abhinav0329/Concept_Dsa/tree/main/0066-plus-one) | Easy |
+| [0066-plus-one](./0066-plus-one) | Easy |
 | [0080-remove-duplicates-from-sorted-array-ii](./0080-remove-duplicates-from-sorted-array-ii) | Medium |
 | [0088-merge-sorted-array](./0088-merge-sorted-array) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](./0121-best-time-to-buy-and-sell-stock) | Easy |
 | [0169-majority-element](./0169-majority-element) | Easy |
 | [0189-rotate-array](./0189-rotate-array) | Medium |
 | [0217-contains-duplicate](./0217-contains-duplicate) | Easy |
 | [0485-max-consecutive-ones](./0485-max-consecutive-ones) | Easy |
 | [0724-find-pivot-index](./0724-find-pivot-index) | Easy |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](./1281-subtract-the-product-and-sum-of-digits-of-an-integer) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](./1295-find-numbers-with-even-number-of-digits) | Easy |
 | [1470-shuffle-the-array](./1470-shuffle-the-array) | Easy |
 | [1480-running-sum-of-1d-array](./1480-running-sum-of-1d-array) | Easy |
@@ -113,7 +116,8 @@ Each directory maps to a specific algorithmic concept/problem containing product
 | Problem Name | Difficulty |
 | --- | --- |
 | [0009-palindrome-number](./0009-palindrome-number) | Easy |
-| [0066-plus-one](https://github.com/Abhinav0329/Concept_Dsa/tree/main/0066-plus-one) | Easy |
+| [0066-plus-one](./0066-plus-one) | Easy |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](./1281-subtract-the-product-and-sum-of-digits-of-an-integer) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](./1295-find-numbers-with-even-number-of-digits) | Easy |
 
 ### Two Pointers
@@ -132,3 +136,21 @@ Each directory maps to a specific algorithmic concept/problem containing product
 | --- | --- |
 | [0169-majority-element](./0169-majority-element) | Easy |
 | [0217-contains-duplicate](./0217-contains-duplicate) | Easy |
+
+### Hash Table
+
+| Problem Name | Difficulty |
+| --- | --- |
+| [0217-contains-duplicate](./0217-contains-duplicate) | Easy |
+
+### Dynamic Programming
+
+| Problem Name | Difficulty |
+| --- | --- |
+| [0121-best-time-to-buy-and-sell-stock](./0121-best-time-to-buy-and-sell-stock) | Easy |
+
+### Counting
+
+| Problem Name | Difficulty |
+| --- | --- |
+| [0169-majority-element](./0169-majority-element) | Easy |
