@@ -64,7 +64,7 @@ Each directory maps to a specific algorithmic concept/problem containing product
 
 | Platform | Profile Link |
 | :--- | :--- |
-| **LeetCode Profile** | [https://leetcode.com/u/CodexAbhi](https://leetcode.com/u/CodexAbhi/) |
+| **LeetCode Profile** | [https://leetcode.com/u/CodexAbhi](https://leetcode.com/u/CodexAbhi_9/) |
 | **LinkedIn** | [https://www.linkedin.com/in/AbhinavUpadhyay](https://www.linkedin.com/in/abhinav-upadhyay-136243397/) |
 | **GitHub Profile** | [https://github.com/Abhinav0329/LeetCode-Daily](https://github.com/Abhinav0329/LeetCode-Daily) |
 
