@@ -8,8 +8,11 @@ public:
             if(prices[i]<min_price){
                 min_price = prices[i];//// Found a cheaper valley day to buy
             }
-            else if(prices[i] - min_price > max_profit){
-                max_profit = prices[i] - min_price;
+            else{
+                int profit = prices[i] - min_price;
+                if(profit > max_profit){
+                    max_profit = profit;
+                }
             }
         }
         return max_profit;
