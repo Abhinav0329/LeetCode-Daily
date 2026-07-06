@@ -1,6 +1,7 @@
 class Solution {
 public:
     int maxSubArray(vector<int>& nums) {
+        //Edge case : empty array
         if(nums.empty()) return 0;
         // Tracks the absolute highest subarray sum found across the entire execution
         int max_sum = nums[0];
