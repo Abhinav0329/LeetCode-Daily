@@ -65,7 +65,7 @@ Each directory maps to a specific algorithmic concept/problem containing product
 | Platform | Profile Link |
 | :--- | :--- |
 | **LeetCode Profile** | [https://leetcode.com/u/CodexAbhi_9](https://leetcode.com/u/CodexAbhi_9/) |
-| **LinkedIn** | [https://www.linkedin.com/in/abhinav-upadhyay-136243397](https://www.linkedin.com/in/abhinav-upadhyay-136243397/) |
+| **LinkedIn** | [https://www.linkedin.com/in/Abhinav Upadhyay](https://www.linkedin.com/in/abhinav-upadhyay-136243397/) |
 | **GitHub Profile** | [https://github.com/Abhinav0329/LeetCode-Daily](https://github.com/Abhinav0329/LeetCode-Daily) |
 
 > “Relentless consistency builds deep engineering mastery.” — Shifting paradigms and tracking growth over time.
