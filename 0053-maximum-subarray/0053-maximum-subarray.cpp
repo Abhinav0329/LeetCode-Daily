@@ -1,6 +1,7 @@
 class Solution {
 public:
     int maxSubArray(vector<int>& nums) {
+        if(nums.empty()) return 0;
         // Tracks the absolute highest subarray sum found across the entire execution
         int max_sum = nums[0];
         // Tracks the local cumulative strength of the current active subarray chain
