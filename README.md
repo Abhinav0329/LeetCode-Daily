@@ -114,6 +114,12 @@ Each directory maps to a specific algorithmic concept/problem containing product
 | [0189-rotate-array](./0189-rotate-array) | Medium | Array reversing mechanics via head/tail bounds mapping |
 | [0283-move-zeroes](./0283-move-zeroes) | Easy | Active swap tracker skipping structural zero fields |
 
+### Sliding Window
+
+| Problem Name | Difficulty | Strategy |
+| --- | --- | --- |
+| [0485-max-consecutive-ones](./0485-max-consecutive-ones) | Easy | Dynamic window optimization tracking contiguous occurrences resetting on non-conforming parameters |
+
 ### Greedy
 
 | Problem Name | Difficulty | Strategy |
@@ -155,9 +161,10 @@ Each directory maps to a specific algorithmic concept/problem containing product
 
 ### Simulation
 
-| Problem Name | Difficulty |
-| --- | --- |
-| [1929-concatenation-of-array](./1929-concatenation-of-array) | Easy |
+| Problem Name | Difficulty | Strategy |
+| --- | --- | --- |
+| [1470-shuffle-the-array](./1470-shuffle-the-array) | Easy | Alternating structural pointer assignments transforming interleaved coordinate pairs |
+| [1929-concatenation-of-array](./1929-concatenation-of-array) | Easy | Direct index looping replication creating double contiguous bounds allocation |
 
 ### Sorting
 
