@@ -4,7 +4,7 @@ public:
         //Edge case : empty array
         if(nums.empty()) return 0;
         int current_sum = 0;
-        int max_sum = INT_MIN;
+        int max_sum = nums[0];
 
         for(int i=0;i<nums.size();i++){
             current_sum += nums[i];
