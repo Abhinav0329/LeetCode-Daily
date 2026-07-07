@@ -87,9 +87,11 @@ Each directory maps to a specific algorithmic concept/problem containing product
 | [0088-merge-sorted-array](./0088-merge-sorted-array) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](./0121-best-time-to-buy-and-sell-stock) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](./0122-best-time-to-buy-and-sell-stock-ii) | Medium |
+| [0152-maximum-product-subarray](./0152-maximum-product-subarray) | Medium |
 | [0169-majority-element](./0169-majority-element) | Easy |
 | [0189-rotate-array](./0189-rotate-array) | Medium |
 | [0217-contains-duplicate](./0217-contains-duplicate) | Easy |
+| [0238-product-of-array-except-self](./0238-product-of-array-except-self) | Medium |
 | [0283-move-zeroes](./0283-move-zeroes) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](./0448-find-all-numbers-disappeared-in-an-array) | Easy |
 | [0485-max-consecutive-ones](./0485-max-consecutive-ones) | Easy |
@@ -103,7 +105,7 @@ Each directory maps to a specific algorithmic concept/problem containing product
 
 ### Two Pointers
 
-| Problem Name | Difficulty | Notes / Strategy Matrix |
+| Problem Name | Difficulty | Strategy |
 | --- | --- | --- |
 | [0026-remove-duplicates-from-sorted-array](./0026-remove-duplicates-from-sorted-array) | Easy | Fast & slow read/write heads tracking unique locations |
 | [0027-remove-element](./0027-remove-element) | Easy | Two pointers filter positioning in-place swaps |
@@ -114,31 +116,33 @@ Each directory maps to a specific algorithmic concept/problem containing product
 
 ### Greedy
 
-| Problem Name | Difficulty | Notes / Strategy Matrix |
+| Problem Name | Difficulty | Strategy |
 | --- | --- | --- |
 | [0053-maximum-subarray](./0053-maximum-subarray) | Medium | Kadane's Algorithm: Resetting prefix metrics upon negativity |
 | [0122-best-time-to-buy-and-sell-stock-ii](./0122-best-time-to-buy-and-sell-stock-ii) | Medium | Continuous peak-valley accumulation of positive increments |
 
 ### Dynamic Programming
 
-| Problem Name | Difficulty | Notes / Strategy Matrix |
+| Problem Name | Difficulty | Strategy |
 | --- | --- | --- |
 | [0121-best-time-to-buy-and-sell-stock](./0121-best-time-to-buy-and-sell-stock) | Easy | Keeping track of historical lowest price point state variable |
+| [0152-maximum-product-subarray](./0152-maximum-product-subarray) | Medium | Tracking both minimum and maximum products due to sign-flip on negative numbers |
 
 ### Hash Table
 
-| Problem Name | Difficulty | Notes / Strategy Matrix |
+| Problem Name | Difficulty | Strategy |
 | --- | --- | --- |
 | [0217-contains-duplicate](./0217-contains-duplicate) | Easy | $O(1)$ amortized lookups using a tracking hash set map |
 | [0448-find-all-numbers-disappeared-in-an-array](./0448-find-all-numbers-disappeared-in-an-array) | Easy | Can use values as index markers or an auxiliary frequency hash map |
 
 ### Prefix Sum
 
-| Problem Name | Difficulty |
-| --- | --- |
-| [0724-find-pivot-index](./0724-find-pivot-index) | Easy |
-| [1480-running-sum-of-1d-array](./1480-running-sum-of-1d-array) | Easy |
-| [1732-find-the-highest-altitude](./1732-find-the-highest-altitude) | Easy |
+| Problem Name | Difficulty | Strategy |
+| --- | --- | --- |
+| [0238-product-of-array-except-self](./0238-product-of-array-except-self) | Medium | Dual running accumulation tracking prefix and suffix intervals simultaneously |
+| [0724-find-pivot-index](./0724-find-pivot-index) | Easy | Evaluates total aggregate metrics using running left summaries |
+| [1480-running-sum-of-1d-array](./1480-running-sum-of-1d-array) | Easy | Inline linear accumulation scanning of continuous index configurations |
+| [1732-find-the-highest-altitude](./1732-find-the-highest-altitude) | Easy | Tracking progressive maximum markers relative to the rolling reference grid |
 
 ### Math
 
@@ -157,13 +161,13 @@ Each directory maps to a specific algorithmic concept/problem containing product
 
 ### Sorting
 
-| Problem Name | Difficulty | Notes / Strategy Matrix |
+| Problem Name | Difficulty | Strategy |
 | --- | --- | --- |
 | [0169-majority-element](./0169-majority-element) | Easy | Alternative: The elements median always sits at index $\lfloor N/2 \rfloor$ if sorted |
 | [0217-contains-duplicate](./0217-contains-duplicate) | Easy | Alternative: Checking adjacent duplicates after an $O(N \log N)$ sequence sort |
 
 ### Counting
 
-| Problem Name | Difficulty | Notes / Strategy Matrix |
+| Problem Name | Difficulty | Strategy |
 | --- | --- | --- |
 | [0169-majority-element](./0169-majority-element) | Easy | **Optimal Strategy:** $O(N)$ Boyer-Moore Voting streaming algorithm |
