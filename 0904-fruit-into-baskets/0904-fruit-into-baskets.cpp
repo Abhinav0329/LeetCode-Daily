@@ -10,14 +10,12 @@ public:
             mpp[fruits[r]]++;
             // If we exceed k distinct fruit types, shrink window from left
             if(mpp.size() > k){
-                while(mpp.size() > k){
                     mpp[fruits[l]]--;
                     if(mpp[fruits[l]] == 0){
                         mpp.erase(fruits[l]);
                     }
                     l++;
                 }
-            }
             // Record maximum window size when valid
             if(mpp.size() <= k){
                 maxLen = std::max(maxLen,r-l+1);
