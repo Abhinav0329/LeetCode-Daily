@@ -11,7 +11,7 @@ public:
                 countzeros++;
             }
             // Expand window: count zero at right pointer 'r'
-                while(countzeros > k){
+                if(countzeros > k){
                     if(nums[l]==0){
                         countzeros--;
                     }
