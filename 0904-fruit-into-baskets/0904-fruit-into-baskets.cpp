@@ -1,0 +1,47 @@
+class Solution {
+public:
+    int totalFruit(vector<int>& fruits) {
+        int n = fruits.size();
+        int l = 0,r = 0;
+        int maxLen = 0;
+        int k = 2;// Fruit into Baskets allows at most 2 distinct types
+        unordered_map<int,int> mpp;
+        while(r < n){
+            mpp[fruits[r]]++;
+            // If we exceed k distinct fruit types, shrink window from left
+            if(mpp.size() > k){
+                while(mpp.size() > k){
+                    mpp[fruits[l]]--;
+                    if(mpp[fruits[l]] == 0){
+                        mpp.erase(fruits[l]);
+                    }
+                    l++;
+                }
+            }
+            // Record maximum window size when valid
+            if(mpp.size() <= k){
+                maxLen = std::max(maxLen,r-l+1);
+            }
+            r++;
+        }
+        return maxLen;
+    }
+};
+
+/*
+        int n = fruits.size();
+        int maxLen = 0;
+        for(int i=0;i<n;i++){
+            std::set<int> st;
+            for(int j=i;j<n;j++){
+                st.insert(fruits[j]);
+                if(st.size() <= 2){
+                    maxLen = max(maxLen,j-i+1);
+                }
+                else{
+                    break;
+                }
+            }
+        }
+        return maxLen;
+*/
