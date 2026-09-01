@@ -12,11 +12,11 @@ public:
                 return mid;
             }
             else if(mid * mid < x){
-                ans = mid;
+                ans = mid;// Store candidate answer and search right half
                 low = mid + 1;
             }
             else{
-                high = mid - 1;
+                high = mid - 1;// Search left half
             }
         }
         return ans;
