@@ -178,3 +178,15 @@ Each directory maps to a specific algorithmic concept/problem containing product
 | Problem Name | Difficulty | Strategy |
 | --- | --- | --- |
 | [0169-majority-element](./0169-majority-element) | Easy | **Optimal Strategy:** $O(N)$ Boyer-Moore Voting streaming algorithm |
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0278-first-bad-version](https://github.com/Abhinav0329/LeetCode-Daily/tree/main/0278-first-bad-version/) | Easy |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0278-first-bad-version](https://github.com/Abhinav0329/LeetCode-Daily/tree/main/0278-first-bad-version/) | Easy |
+<!---LeetCode Topics End-->
