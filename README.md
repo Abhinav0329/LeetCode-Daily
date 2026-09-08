@@ -191,4 +191,12 @@ Each directory maps to a specific algorithmic concept/problem containing product
 | ------- | ------- |
 | [0278-first-bad-version](https://github.com/Abhinav0329/LeetCode-Daily/tree/main/0278-first-bad-version/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/Abhinav0329/LeetCode-Daily/tree/main/0374-guess-number-higher-or-lower/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/Abhinav0329/LeetCode-Daily/tree/main/0206-reverse-linked-list/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/Abhinav0329/LeetCode-Daily/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
