@@ -21,7 +21,6 @@ public:
                 total += roman[s[i]];
             }
         }
-
         return total;
     }
 };
