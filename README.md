@@ -194,9 +194,11 @@ Each directory maps to a specific algorithmic concept/problem containing product
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0203-remove-linked-list-elements](https://github.com/Abhinav0329/LeetCode-Daily/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Abhinav0329/LeetCode-Daily/tree/main/0206-reverse-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0203-remove-linked-list-elements](https://github.com/Abhinav0329/LeetCode-Daily/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Abhinav0329/LeetCode-Daily/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
