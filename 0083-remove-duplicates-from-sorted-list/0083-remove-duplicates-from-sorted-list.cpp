@@ -20,7 +20,8 @@ public:
         current->next = current->next->next;
         delete duplicate;
             }
-            else{
+            else
+            {
             current = current->next;
             }
         }
