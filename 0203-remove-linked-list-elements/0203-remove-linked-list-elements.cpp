@@ -29,7 +29,6 @@ public:
                 temp = temp->next;
             }
         }
-
         return head;
     }
 };
