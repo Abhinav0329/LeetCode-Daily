@@ -205,4 +205,8 @@ Each directory maps to a specific algorithmic concept/problem containing product
 | [0025-reverse-nodes-in-k-group](https://github.com/Abhinav0329/LeetCode-Daily/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0203-remove-linked-list-elements](https://github.com/Abhinav0329/LeetCode-Daily/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Abhinav0329/LeetCode-Daily/tree/main/0206-reverse-linked-list/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2299-strong-password-checker-ii](https://github.com/Abhinav0329/LeetCode-Daily/tree/main/2299-strong-password-checker-ii/) | Easy |
 <!---LeetCode Topics End-->
