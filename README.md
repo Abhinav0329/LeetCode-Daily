@@ -209,4 +209,16 @@ Each directory maps to a specific algorithmic concept/problem containing product
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2299-strong-password-checker-ii](https://github.com/Abhinav0329/LeetCode-Daily/tree/main/2299-strong-password-checker-ii/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0110-balanced-binary-tree](https://github.com/Abhinav0329/LeetCode-Daily/tree/main/0110-balanced-binary-tree/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0110-balanced-binary-tree](https://github.com/Abhinav0329/LeetCode-Daily/tree/main/0110-balanced-binary-tree/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0110-balanced-binary-tree](https://github.com/Abhinav0329/LeetCode-Daily/tree/main/0110-balanced-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
